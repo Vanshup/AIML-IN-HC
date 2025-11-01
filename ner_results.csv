@@ -1,0 +1,97 @@
+report_id,entity,label,start_char,end_char,report_text
+1,Riya Sharma,PERSON,14,25,"Patient Name: Riya Sharma
+Age: 35
+Diagnosis: Acute Bronchitis and Mild Asthma.
+Prescribed Medications: Salbutamol Inhaler twice daily, Cetirizine 10mg once at night.
+Test Reports: Chest X-ray - Mild inflammation observed."
+1,35,CARDINAL,31,33,"Patient Name: Riya Sharma
+Age: 35
+Diagnosis: Acute Bronchitis and Mild Asthma.
+Prescribed Medications: Salbutamol Inhaler twice daily, Cetirizine 10mg once at night.
+Test Reports: Chest X-ray - Mild inflammation observed."
+1,Mild Asthma,PERSON,66,77,"Patient Name: Riya Sharma
+Age: 35
+Diagnosis: Acute Bronchitis and Mild Asthma.
+Prescribed Medications: Salbutamol Inhaler twice daily, Cetirizine 10mg once at night.
+Test Reports: Chest X-ray - Mild inflammation observed."
+1,Salbutamol Inhaler,PERSON,103,121,"Patient Name: Riya Sharma
+Age: 35
+Diagnosis: Acute Bronchitis and Mild Asthma.
+Prescribed Medications: Salbutamol Inhaler twice daily, Cetirizine 10mg once at night.
+Test Reports: Chest X-ray - Mild inflammation observed."
+1,daily,DATE,128,133,"Patient Name: Riya Sharma
+Age: 35
+Diagnosis: Acute Bronchitis and Mild Asthma.
+Prescribed Medications: Salbutamol Inhaler twice daily, Cetirizine 10mg once at night.
+Test Reports: Chest X-ray - Mild inflammation observed."
+1,Cetirizine,PERSON,135,145,"Patient Name: Riya Sharma
+Age: 35
+Diagnosis: Acute Bronchitis and Mild Asthma.
+Prescribed Medications: Salbutamol Inhaler twice daily, Cetirizine 10mg once at night.
+Test Reports: Chest X-ray - Mild inflammation observed."
+1,10,CARDINAL,146,148,"Patient Name: Riya Sharma
+Age: 35
+Diagnosis: Acute Bronchitis and Mild Asthma.
+Prescribed Medications: Salbutamol Inhaler twice daily, Cetirizine 10mg once at night.
+Test Reports: Chest X-ray - Mild inflammation observed."
+1,night,TIME,159,164,"Patient Name: Riya Sharma
+Age: 35
+Diagnosis: Acute Bronchitis and Mild Asthma.
+Prescribed Medications: Salbutamol Inhaler twice daily, Cetirizine 10mg once at night.
+Test Reports: Chest X-ray - Mild inflammation observed."
+2,"Ajay Singh
+",PERSON,14,25,"Patient Name: Ajay Singh
+Age: 58
+Diagnosis: Type 2 Diabetes Mellitus and Hypertension.
+Medications: Metformin 500 mg twice daily; Amlodipine 5 mg daily.
+Recent Test: Fasting Blood Sugar = 162 mg/dL."
+2,58,CARDINAL,30,32,"Patient Name: Ajay Singh
+Age: 58
+Diagnosis: Type 2 Diabetes Mellitus and Hypertension.
+Medications: Metformin 500 mg twice daily; Amlodipine 5 mg daily.
+Recent Test: Fasting Blood Sugar = 162 mg/dL."
+2,2,CARDINAL,49,50,"Patient Name: Ajay Singh
+Age: 58
+Diagnosis: Type 2 Diabetes Mellitus and Hypertension.
+Medications: Metformin 500 mg twice daily; Amlodipine 5 mg daily.
+Recent Test: Fasting Blood Sugar = 162 mg/dL."
+2,Hypertension,ORG,73,85,"Patient Name: Ajay Singh
+Age: 58
+Diagnosis: Type 2 Diabetes Mellitus and Hypertension.
+Medications: Metformin 500 mg twice daily; Amlodipine 5 mg daily.
+Recent Test: Fasting Blood Sugar = 162 mg/dL."
+2,500,CARDINAL,110,113,"Patient Name: Ajay Singh
+Age: 58
+Diagnosis: Type 2 Diabetes Mellitus and Hypertension.
+Medications: Metformin 500 mg twice daily; Amlodipine 5 mg daily.
+Recent Test: Fasting Blood Sugar = 162 mg/dL."
+2,Amlodipine 5,PERSON,130,142,"Patient Name: Ajay Singh
+Age: 58
+Diagnosis: Type 2 Diabetes Mellitus and Hypertension.
+Medications: Metformin 500 mg twice daily; Amlodipine 5 mg daily.
+Recent Test: Fasting Blood Sugar = 162 mg/dL."
+2,daily,DATE,146,151,"Patient Name: Ajay Singh
+Age: 58
+Diagnosis: Type 2 Diabetes Mellitus and Hypertension.
+Medications: Metformin 500 mg twice daily; Amlodipine 5 mg daily.
+Recent Test: Fasting Blood Sugar = 162 mg/dL."
+2,162,CARDINAL,188,191,"Patient Name: Ajay Singh
+Age: 58
+Diagnosis: Type 2 Diabetes Mellitus and Hypertension.
+Medications: Metformin 500 mg twice daily; Amlodipine 5 mg daily.
+Recent Test: Fasting Blood Sugar = 162 mg/dL."
+3,Sunita Patel,PERSON,14,26,"Patient Name: Sunita Patel
+Age: 47
+Complaint: Severe headache and photophobia.
+Examination: CT scan normal.
+Treatment: Started on Paracetamol 500mg as required; advised neurology follow-up."
+3,47,CARDINAL,32,34,"Patient Name: Sunita Patel
+Age: 47
+Complaint: Severe headache and photophobia.
+Examination: CT scan normal.
+Treatment: Started on Paracetamol 500mg as required; advised neurology follow-up."
+3,CT,ORG,92,94,"Patient Name: Sunita Patel
+Age: 47
+Complaint: Severe headache and photophobia.
+Examination: CT scan normal.
+Treatment: Started on Paracetamol 500mg as required; advised neurology follow-up."
